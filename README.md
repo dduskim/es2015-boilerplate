@@ -22,7 +22,7 @@
 npm install --save-dev babel-core babel-loader babel-preset-es2015
 ```
 
-##### babelrc 파일 또는 package.json에 추가
+##### .babelrc 파일 또는 package.json에 추가(https://babeljs.io/docs/usage/babelrc/)
 ```
 "babel": {
   "presets": ["es2015"]
